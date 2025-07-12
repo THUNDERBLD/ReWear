@@ -1,3 +1,8 @@
+Faraz Mohammad - ayanalihaider9@gmail.com
+Munish Upadhyay - munishupadhyay183@gmail.com
+Siddhartha - singhsiddhartha220@gmail.com
+Priyanshi - priyanshimaurya23@gmail.com
+
 # ReWear - Community Clothing Exchange 👕♻️
 
 A sustainable fashion platform that enables users to exchange unused clothing through direct swaps or a point-based redemption system, promoting textile waste reduction and circular fashion economy.
