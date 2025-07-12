@@ -217,12 +217,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Inspired by sustainable fashion initiatives
 - Thanks to the open-source community for tools and libraries
 
-## 📧 Contact
-
-Your Name - your.email@example.com
-
-Project Link: [https://github.com/yourusername/rewear](https://github.com/yourusername/rewear)
-
 ---
 
 *ReWear - Making fashion sustainable, one swap at a time* 🌱
